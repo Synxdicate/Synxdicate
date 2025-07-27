@@ -9,4 +9,4 @@ Cyber Warrior Hackathon 2025 - popular vote<br>
 in progress...<br>
 
 ### Others
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1095643" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Harmonic66.png" alt="Your Image Badge" />
