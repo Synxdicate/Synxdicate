@@ -10,5 +10,8 @@ Cyber Warrior Hackathon 2025 - popular vote<br>
 MARINE MONITORING HACKATHON 2025 - The winner of Track(1) Smart Monitoring<br> 
 <i>in progress...</i><br>
 
+### notes
+<a href="https://innossense.notion.site/database">database</a><br>
+
 ### Others
 <img src="https://tryhackme-badges.s3.amazonaws.com/Harmonic66.png" alt="Your Image Badge" />
