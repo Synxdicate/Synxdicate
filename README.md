@@ -2,6 +2,7 @@
 https://cy-e-ticket.vercel.app <- collab with <a href="https://github.com/lsupwp">lsupwp</a><br>
 
 <a href="https://github.com/Synxdicate/lan_socket">lan_socket</a><br>
+<a href="https://github.com/Synxdicate/scanqr">scanqr</a><br>
 <i>in progress...</i><br>
 ### Achievements 
 ---2025---<br>
