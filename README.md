@@ -10,9 +10,8 @@
 ---2025---<br>
 ศึกตามล่า 10 เทพ สาย DEV มข. - first runner up<br>
 Cyber Warrior Hackathon 2025 - popular vote<br>
-MARINE MONITORING HACKATHON 2025 - The winner of Track(1) Smart Monitoring<br> 
+MARINE MONITORING HACKATHON 2025 - The Winner of Track: Smart Monitoring<br> 
 The CubeSat Quest exploring the beyond 2025 - second place<br>
-<i>in progress...</i><br>
 <hr>
 
 ### Notes
