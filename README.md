@@ -4,10 +4,13 @@
 <a href="https://github.com/Synxdicate/scanqr">scanqr</a> ->  <a href="https://qrduck.vercel.app/">qrduck</a><br>
 <a href="https://github.com/Synxdicate/IDWTLG">IDWTLG</a> ->  <a href="https://idwtlg.vercel.app/">just pomodoro</a><br>
 <a href="https://github.com/Synxdicate/AustenC2">AustenC2</a>
+<a href="https://github.com/Synxdicate/ihatenetwork/">Ihatenetwork (just gns3 project)</a>
 <hr>
 <b>All Links</b>
 https://idwtlg.vercel.app/
 https://qrduck.vercel.app/
+<hr>
+
 
 ### Achievements 
 ---2025---<br>
