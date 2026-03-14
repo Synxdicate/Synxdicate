@@ -3,12 +3,12 @@
 <a href="https://github.com/Synxdicate/lan_socket">lan_socket</a><br>
 <a href="https://github.com/Synxdicate/scanqr">scanqr</a> ->  <a href="https://qrduck.vercel.app/">qrduck</a><br>
 <a href="https://github.com/Synxdicate/IDWTLG">IDWTLG</a> ->  <a href="https://idwtlg.vercel.app/">just pomodoro</a><br>
-<a href="https://github.com/Synxdicate/AustenC2">AustenC2</a>
+<a href="https://github.com/Synxdicate/AustenC2">AustenC2</a><br>
 <a href="https://github.com/Synxdicate/ihatenetwork/">Ihatenetwork (just gns3 project)</a>
 <hr>
-<b>All Links</b>
-https://idwtlg.vercel.app/
-https://qrduck.vercel.app/
+<b>All Links</b><br>
+<a href="https://idwtlg.vercel.app/">https://idwtlg.vercel.app/</a><br>
+<a href="https://qrduck.vercel.app">https://qrduck.vercel.app/</a>
 <hr>
 
 
