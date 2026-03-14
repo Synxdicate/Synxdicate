@@ -5,6 +5,9 @@
 <a href="https://github.com/Synxdicate/IDWTLG">IDWTLG</a> ->  <a href="https://idwtlg.vercel.app/">just pomodoro</a><br>
 <a href="https://github.com/Synxdicate/AustenC2">AustenC2</a>
 <hr>
+<b>All Links</b>
+https://idwtlg.vercel.app/
+https://qrduck.vercel.app/
 
 ### Achievements 
 ---2025---<br>
