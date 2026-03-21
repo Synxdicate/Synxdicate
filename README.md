@@ -5,8 +5,9 @@
 <a href="https://github.com/Synxdicate/IDWTLG">IDWTLG</a> ->  <a href="https://idwtlg.vercel.app/">just pomodoro</a><br>
 <a href="https://github.com/Synxdicate/AustenC2">AustenC2</a><br>
 <a href="https://github.com/Synxdicate/ihatenetwork/">Ihatenetwork (just gns3 project)</a><br>
-<a href="https://github.com/Synxdicate/Certguard">COSVINTE</a><br>
-<p>Certguard</p>
+<a href="https://github.com/Sumxmer/COSVINTE">COSVINTE</a>
+collab with Sumxmer and other
+<a href="https://github.com/Synxdicate/Certguard">Certguard</a><br>
 <hr>
 <b>All Links</b><br>
 <a href="https://idwtlg.vercel.app/">https://idwtlg.vercel.app/</a><br>
