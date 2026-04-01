@@ -25,7 +25,7 @@ The CubeSat Quest exploring the beyond 2025 - second place<br>
 
 ### Notes
 <a href="https://innossense.notion.site/database">database</a><br>
-<a href="https://github.com/Synxdicate/Note">note obsidian</a><br>
+<a href="https://github.com/Synxdicate/Note">Note</a><br>
 <hr>
 
 ### Others
